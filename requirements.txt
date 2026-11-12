@@ -1,0 +1,9 @@
+# Основные зависимости Screen Answer (Python 3.10+, Windows 10/11)
+PyQt6>=6.5
+mss>=9.0
+Pillow>=10.0
+pytesseract>=0.3.10
+openai>=1.40
+numpy>=1.24
+# Голосовой ввод (необязательно, но лёгкий пакет)
+sounddevice>=0.4.6

@@ -1,0 +1,15 @@
+# Личные данные — не публиковать
+config.json
+config.json.tmp
+config.json.broken
+history.db
+screen_answer.log*
+screenshots/
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+build/
+dist/
+*.spec

@@ -1,0 +1,6 @@
+# Альтернативные OCR-движки (тяжёлые, ставятся по желанию)
+# EasyOCR потянет PyTorch (~1–2 ГБ):
+easyocr>=1.7
+# PaddleOCR:
+paddleocr>=2.7
+paddlepaddle>=2.6
